@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Neon Sign",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-04T13:58:03.624020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neon Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Neon_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Underneath the Neon Sign",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/02_Underneath_the_Neon_Sign_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neon Sign",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_Neon_Sign_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Underneath The Neon Sign - Live",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/04_Underneath_The_Neon_Sign_-_Live_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Underneath the Neon Sign (live)",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/05_Underneath_the_Neon_Sign_(live)_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neon Sign",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_Neon_Sign_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Neon Sign",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/07_Neon_Sign_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neon Sign",
+      "artist": "Carbon Killer",
+      "has_synced": true,
+      "path": "select/08_Neon_Sign_Carbon_Killer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neon Sign (Radio edit)",
+      "artist": "Carbon Killer",
+      "has_synced": true,
+      "path": "select/09_Neon_Sign_(Radio_edit)_Carbon_Killer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "neon sign",
+      "artist": "高橋瞳",
+      "has_synced": false,
+      "path": "select/10_neon_sign_高橋瞳.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Underneath The Neon Sign",
+      "artist": "Kinks",
+      "has_synced": true,
+      "path": "select/11_Underneath_The_Neon_Sign_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Underneath the Neon Sign",
+      "artist": "Kinks",
+      "has_synced": false,
+      "path": "select/12_Underneath_the_Neon_Sign_Kinks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Underneath The Neon Sign",
+      "artist": "Kinks, The",
+      "has_synced": true,
+      "path": "select/13_Underneath_The_Neon_Sign_Kinks,_The.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "NEON SIGN",
+      "artist": "Full Of Harmony",
+      "has_synced": true,
+      "path": "select/14_NEON_SIGN_Full_Of_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Underneath The Neon Sign",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/15_Underneath_The_Neon_Sign_The_Kinks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neon Sign",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Neon_Sign_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Neon Sign",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_Neon_Sign_米津玄師.txt"
+    }
+  ]
+}
